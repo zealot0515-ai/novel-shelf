@@ -1,0 +1,17 @@
+{
+  "siteTitle": "星冊書架 Novel Shelf",
+  "updated": "2026-05-19",
+  "books": [
+    {
+      "id": "marine-of-the-sector",
+      "title": "陸戰隊員的星海",
+      "genre": "軍事科幻",
+      "status": "連載中",
+      "description": "一名人類機槍兵在星際戰火中倖存、晉升，穿越神族與異形的巨大陰影，最後登上一艘巡航艦的艦橋。",
+      "plannedChapters": 20,
+      "publishedChapters": 0,
+      "updated": "籌備中",
+      "chapters": []
+    }
+  ]
+}
